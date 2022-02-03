@@ -1,6 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next.js template
+This is a Dockerfile template to run Next.js on [mogenius](https://mogenius.com). We use it to deploy Next.js from our service library. If you have a Next.js project that you want to run on mogenius feel free to add this Dockerfile to your project.
+## Deployment on mogenius
+[mogenius](https://mogenius.com) is the easiest way to run a Next.js application in the cloud. It's free, so [sign up now](https://studio.mogenius.com/user/registration) and deploy your app with mogenius.
+- Read the docs: [docs.mogenius.com](https://docs.mogenius.com)
+- Join our Discord community: [discord.gg/WSxnFHr4qm](https://discord.gg/WSxnFHr4qm)
+- Submit your ideas: [feedback.mogenius.com](https://feedback.mogenius.com)
+
+
 
 ## Getting Started
+
+This [Next.js](https://nextjs.org/) project is bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
